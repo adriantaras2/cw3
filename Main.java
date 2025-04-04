@@ -70,3 +70,4 @@ public class Main {
         sklep.wyswietlZamowieniaKlienta(k1.getKlientId());
     }
 }
+// w2
